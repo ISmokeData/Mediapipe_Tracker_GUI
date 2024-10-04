@@ -1,3 +1,5 @@
+![Demo](https://raw.githubusercontent.com/ISmokeData/Mediapipe_Tracker_GUI/f97cc53304386ed76bae2d8f6e3feba700e270cb/tempelate/zuuzuz.gif)
+
 # Camera Feed Detection App with Kivy, OpenCV, and MediaPipe
 
 This project is a live camera feed application built using Kivy, OpenCV, and MediaPipe. It detects and tracks facial landmarks, hand landmarks, and body pose landmarks in real-time. The app is designed to visualize these landmarks using circles and connecting lines, making it easy to see key points on the face, hands, and body.
